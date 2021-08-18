@@ -1,4 +1,2 @@
 # jsonscala.github.io
-Public pages for jsonscala
-
-Miscellaneous information
+Public pages for jsonscala project sites
