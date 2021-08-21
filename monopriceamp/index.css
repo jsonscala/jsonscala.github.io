@@ -125,15 +125,13 @@ body a {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
-  padding: 4px 0 16px 0;
+  padding: 4px 0 12px 0;
 }
 
 .dashboard-unitcontrol {
   min-width: 274px;
   margin: 8px;
-  min-height: 220px;
-  height: 220px;
-  margin: 30px 0;
+  margin: 12px 0;
 }
 
 @media screen and (min-width: 1px) {
@@ -964,5 +962,4 @@ input:checked + .toggleswitch-knob:before {
   width: calc(100% - 6px);
   padding: 2px 0 12px 6px;
 }
-
 
